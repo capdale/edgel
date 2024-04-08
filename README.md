@@ -6,7 +6,7 @@ Convert network to edge device compatible, easy to test, benchmark performance f
 # List of model
 |Framework|version|
 |---|---|
-|Tensorflow|2.15.0|
+|Tensorflow (tf concrete only) |2.15.0|
 |Pytorch| x |
 |Onnx| x |
 |JAX | x |
